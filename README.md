@@ -11,7 +11,7 @@ I enjoy building scalable software, solving challenging problems, and working on
 
 ### 🚀 Projects
 
-- **Krishak Shayak** — AI-powered agri-tech platform with **RAG, semantic search, voice assistance, real-time weather/market data, and scalable backend infrastructure**.
+- **Krishak Shayak** — An agri-tech platform with **real-time weather/market data, and scalable backend infrastructure**.
 - **Philosophy Hub** — Full-stack discussion platform with **secure REST APIs, JWT authentication, and optimized backend performance**.
 
 ### 🛠️ Tech Stack
